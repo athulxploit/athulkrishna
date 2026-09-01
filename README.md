@@ -295,21 +295,3 @@ I’m particularly interested in projects where research can be turned into prac
   <sub>Building at the intersection of cybersecurity, engineering, and AI.</sub>
 </p>
 ```
-
-### One important change before you publish
-
-Replace:
-
-```md
-YOUR_USERNAME
-```
-
-with your actual GitHub username.
-
-Also, I deliberately **didn't call you a “Cybersecurity Engineer” throughout the README**. Since you're a fresher, this version presents you as a serious **researcher/builder** without making employment-level claims you can't yet substantiate.
-
-For the profile itself, I'd use:
-
-**Cybersecurity Researcher | Ethical Hacking | Security Engineering | AI**
-
-That combination gives you a much more mature GitHub presence while leaving room for **CruxAI and your future security projects**.
