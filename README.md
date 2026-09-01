@@ -294,4 +294,3 @@ I’m particularly interested in projects where research can be turned into prac
 <p align="center">
   <sub>Building at the intersection of cybersecurity, engineering, and AI.</sub>
 </p>
-```
